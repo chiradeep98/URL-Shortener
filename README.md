@@ -3,8 +3,7 @@
 A simple and beautiful Node.js URL shortener that generates short links and tracks clicks with analytics.
 
 ![screenshot](./public/preview.png)
-![screenshot](./public/preview1.png)
-![screenshot](./public/preview2.png)
+
 
 ## 🚀 Features
 - 🔗 Shorten long URLs
